@@ -5,3 +5,4 @@ Console.WriteLine("Hello, Worldooooooooooooooooooooo!");
 //djsflfffffffffffffffffffffffffffffffffff
 
 //tkenokoumaii!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+//あいうえおかきこうｋひマージお願い
