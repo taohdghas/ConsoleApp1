@@ -6,3 +6,4 @@ Console.WriteLine("Hello, Worldooooooooooooooooooooo!");
 
 //tkenokoumaii!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
 //あいうえおかきこうｋひマージお願い
+//マージしません￥１
