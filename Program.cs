@@ -6,7 +6,7 @@ Console.WriteLine("Hello, Worldooooooooooooooooooooo!");
 
 //tkenokoumaii!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
 //あいうえおかきこうｋひマージお願い
- pullrikuesuto
+//プル陸エスtおの作成
 //マージお願いしますほんとに頼む
 //マージします￥１
- master
+ 
