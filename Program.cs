@@ -10,4 +10,4 @@ Console.WriteLine("Hello, Worldooooooooooooooooooooo!");
 //マージお願いしますほんとに頼む
 //マージします￥１
 
-//プルしてから作業します。
+//プ
